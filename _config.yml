@@ -2,12 +2,12 @@
 baseurl: "aztejeda.me"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: "UA-140479898-1"
 
 # UI configs
 title: "Photography by Adam Tejeda"
 subtitle: ""
-author: "Ram Patra"
+author: "Adam Tejeda"
 header:
  title: "Photography"
  subtitle: "by Adam Tejeda"
